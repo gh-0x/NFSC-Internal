@@ -1,6 +1,6 @@
 # NFSC-Internal
 This is a simple internal cheat for need for speed carbon, but old src
-![ui](https://github.com/mlj2/NFSC-Internal/blob/master/ui.png)
+![ui](https://github.com/xastrix/NFSC-Internal/blob/master/ui.png)
 ## Installing
 Run the build-vsXX.bat Premake script, open NFSC-Internal.sln, and compile it in release/x86 with a .asi extension.  
 Download [Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases) from the release page and put it in the game folder. After compiling from the bin folder, take the DLL library and put it in the scripts folder in the game folder.  
